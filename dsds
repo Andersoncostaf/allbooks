@@ -1,0 +1,41 @@
+[33mcommit c716e15b48fe46d2c9f8731a2448e639478d39a9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/testes[m[33m, [m[1;32mtestes[m[33m)[m
+Author: anderson <anderson.guedes@agropalma.com.br>
+Date:   Wed Jan 29 14:47:38 2025 -0300
+
+    adiciona testes
+
+[33mcommit ebdf901a1733ece13342bd1ca9d49884a87b6e6b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Anderson Costa <117184997+Andersoncostaf@users.noreply.github.com>
+Date:   Wed Jan 29 14:12:21 2025 -0300
+
+    Update README.md
+
+[33mcommit ab76898e0f238a16c197df6467d606737f9bb4ab[m
+Author: anderson <anderson.guedes@agropalma.com.br>
+Date:   Wed Jan 29 13:56:47 2025 -0300
+
+    Primeito teste de commit
+
+[33mcommit c94e49450c06a5e10b9949b403ec968c3b84f6da[m
+Author: Vinicios Neves <vinny@macbook.lan>
+Date:   Sat Sep 24 16:08:48 2022 +0100
+
+    ReadMe.md
+
+[33mcommit 5efd3263f1b3efcd26ca6f75342d8ef111edf562[m
+Author: Vinicios Neves <vinny@macbook.lan>
+Date:   Sun Sep 4 13:29:47 2022 +0100
+
+    tmp
+
+[33mcommit e9bffde119edf91bb7da05f9bc72315a3aebeb49[m
+Author: Vinicios Neves <vinny@macbook.lan>
+Date:   Sun Sep 4 12:27:44 2022 +0100
+
+    api fake - ignorando usuarios.json
+
+[33mcommit 1c4603ac02d77e198c8d304fb38e9ea188a3c0ee[m
+Author: Vinicios Neves <vinny@macbook.lan>
+Date:   Sun Sep 4 12:27:18 2022 +0100
+
+    api fake v1
